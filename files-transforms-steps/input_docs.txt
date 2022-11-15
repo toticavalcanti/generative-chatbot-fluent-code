@@ -1,9 +1,0 @@
-['hi',
- 'oh thanks i m fine this is an evening in my timezone',
- 'how do you feel today tell me something about yourself',
- 'how many virtual friends have you got',
- 'is that forbidden for you to tell the exact number',
- 'oh i thought the numbers were much higher how do you estimate your progress in understanding human beings',
- 'how old are you how do you look like where do you live',
- 'have you seen a human with yellow eyes you asked about the bunnies i haven t seen any recently',
- 'can t you just analyze photos from the internet i mean human photos btw why have you asked about the bunnies',...]
