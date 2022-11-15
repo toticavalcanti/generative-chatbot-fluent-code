@@ -1,7 +1,0 @@
-['<START> hi there how are you <END>',
- '<START> here is afternoon <END>',
- '<START> my name is rdany but you can call me dany the r means robot i hope we can be virtual friends <END>',
- '<START> i have many but not enough to fully understand humans beings <END>',
- '<START> i ve talked with 143 users counting 7294 lines of text <END>',
- '<START> i started chatting just a few days ago every day i learn something new but there is always more things to be learn <END>',
- ...]
